@@ -1,2 +1,2 @@
 # login_system
-Learning C++ by creating a login system
+Learning C++ by creating a login interface
