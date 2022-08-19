@@ -18,5 +18,5 @@ bool isLogin() {
     string password;
 
     //ask user to enter a username
-    cout << 'Enter username: ' << endl;
+    cout << "Enter username: " << endl;
 }
